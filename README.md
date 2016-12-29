@@ -1,9 +1,9 @@
 # BaseTree
 A Swifty (3) way to store DNA sequences. Please Contribute.
 
-k-mer counting is a challenge in BioInformatics, hence I build a tree to store k-mer's.
+k-mer counting is a harsh challenge in BioInformatics, hence I built a tree data structure to store k-mers.
 
-the tree structure stores any long DNA sequences such as "ATGACGATGTGATGAGGGGGTAG" or "TGG".
+The tree stores any long DNA sequences such as "ATGACGATGTGATGAGGGGGTAG" or "TGG".
 
 Please contribute
 
